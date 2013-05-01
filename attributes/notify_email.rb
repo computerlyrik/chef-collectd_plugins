@@ -1,2 +1,2 @@
-default['collectd']['mailserver'] = "mail.#{node['domain']}",
+default['collectd']['mailserver'] = "mail.#{node['domain']}"
 
